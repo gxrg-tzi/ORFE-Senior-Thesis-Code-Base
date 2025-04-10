@@ -1,0 +1,1 @@
+This is the Code portion of my submitted materials for my Princeton ORFE Thesis: A Temporal Network Approach to Modeling Quantitative Success in Venture Capital Ecosystems. This public GitHub repository contains the complete Python notebook required to exactly recreate my analysis results.
